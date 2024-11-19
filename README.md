@@ -54,8 +54,8 @@ Here are a few projects I’ve worked on:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/johndoe) 🌐
-- [Twitter](https://twitter.com/johndoe) 🐦
+- [Youtube](https://youtube.com/@theorycraft-tc?si=lR5kV6ptNzpDLKnV) 🌐
+- [Whatsapp](https://whatsapp.com/channel/0029VafiYzr2ER6gxpb8Kr0C) 🐦
 - [Personal Website](https://johndoe.dev) 🌍
 
 ---
